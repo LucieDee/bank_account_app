@@ -47,6 +47,6 @@ while(true)
       end
     elsif choice == "4"
       puts "The total is: "
-      puts total_cash_in_bank("amount", ACCOUNTS)
+      puts total_cash_in_bank(ACCOUNTS)
   end
 end
